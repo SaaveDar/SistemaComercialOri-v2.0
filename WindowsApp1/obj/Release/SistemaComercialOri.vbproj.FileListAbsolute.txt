@@ -465,3 +465,4 @@ D:\Proyectos VisualStudio\Ori 2025\SistemaComercialOri-v2.0\WindowsApp1\obj\Rele
 D:\Proyectos VisualStudio\Ori 2025\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\Ori.exe
 D:\Proyectos VisualStudio\Ori 2025\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\Ori.xml
 D:\Proyectos VisualStudio\Ori 2025\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\Ori.pdb
+D:\Proyectos VisualStudio\Ori 2025\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\WindowsApp1.FrmReportes.resources

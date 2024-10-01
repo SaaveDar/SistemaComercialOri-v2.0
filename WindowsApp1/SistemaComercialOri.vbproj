@@ -423,6 +423,12 @@
     <Compile Include="FrmProductosServicios.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="FrmReportes.Designer.vb">
+      <DependentUpon>FrmReportes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmReportes.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Funciones.vb" />
     <Compile Include="Interfaz\FrmCarga.Designer.vb">
       <DependentUpon>FrmCarga.vb</DependentUpon>
@@ -584,6 +590,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FrmProductosServicios.resx">
       <DependentUpon>FrmProductosServicios.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmReportes.resx">
+      <DependentUpon>FrmReportes.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Interfaz\FrmCarga.resx">
       <DependentUpon>FrmCarga.vb</DependentUpon>

@@ -467,7 +467,7 @@ Partial Class FrmGestionar
         Me.PanelSN.BackColor = System.Drawing.Color.Gray
         Me.PanelSN.Controls.Add(Me.TableLayoutPanel1)
         Me.PanelSN.Controls.Add(Me.PanelListarOper)
-        Me.PanelSN.Location = New System.Drawing.Point(1177, 192)
+        Me.PanelSN.Location = New System.Drawing.Point(1180, 224)
         Me.PanelSN.Name = "PanelSN"
         Me.PanelSN.Size = New System.Drawing.Size(480, 464)
         Me.PanelSN.TabIndex = 9
@@ -2139,9 +2139,9 @@ Partial Class FrmGestionar
         Me.ClientSize = New System.Drawing.Size(1265, 661)
         Me.ControlBox = False
         Me.Controls.Add(Me.PanelEnLinea_Detalle)
+        Me.Controls.Add(Me.PanelSN)
         Me.Controls.Add(Me.PanelEnLinea)
         Me.Controls.Add(Me.PanelInventario)
-        Me.Controls.Add(Me.PanelSN)
         Me.Controls.Add(Me.PanelSup)
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.Name = "FrmGestionar"

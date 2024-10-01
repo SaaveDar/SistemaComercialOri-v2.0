@@ -42,6 +42,7 @@ Empiezanuevamente:
 
 
         '********************************
+        '' hola aqui cambie
         'PCSERVER = "161.132.47.14"
         'PASSSEVER = "B]4O7mmD-S3("
         'SASEVER = "sa"
@@ -49,7 +50,7 @@ Empiezanuevamente:
         'Dim rutaInstalacion As String = AppDomain.CurrentDomain.BaseDirectory
         'LK_RUTA_RPT = rutaInstalacion
 
-        ''LK_RUTA_RPT = "D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\FormatosCrystal\"
+        'LK_RUTA_RPT = "D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\FormatosCrystal\"
 
         ''**********
 
@@ -823,8 +824,14 @@ NoIngresa:
     End Sub
 
     Private Sub CmdReportar_Click(sender As Object, e As EventArgs) Handles CmdReportar.Click
+
         PlaySonidoMouse(lk_CodigoSonido)
-        If lk_id_Negocio = 0 Then
+
+        If LlegoMaximoFormularios(PanelFormularios) Then
+            Exit Sub
+        End If
+
+        If lk_NegocioActivo.id_Negocio = 0 Then
             Dim result = MensajesBox.Show(lkfor_texto_sinnegocio, lk_cabeza_msgbox)
             Exit Sub
         End If
@@ -833,6 +840,21 @@ NoIngresa:
             CmdIdNegocio_Click(Nothing, Nothing)
             Exit Sub
         End If
+
+        Dim frMenuReportes As New FrmReportes
+
+        frMenuReportes.Show()
+        frMenuReportes.TopLevel = False
+        PanelFormularios.Controls.Add(frMenuReportes)
+
+        frMenuReportes.Left = 4
+        frMenuReportes.Top = 10
+
+        PanelFormularios.Controls.Item(PanelFormularios.Controls.Count - 1).BringToFront() ' Ultimo Fomulario a primer plano
+        SelectNextControl(ActiveControl, True, True, True, True)
+        frMenuReportes.Focus()
+
+
     End Sub
 
     Private Sub CmdDeclarar_Click(sender As Object, e As EventArgs) Handles CmdDeclarar.Click

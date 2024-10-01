@@ -403,14 +403,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Ori.exe" size="5344768">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Ori.exe" size="5350912">
       <assemblyIdentity name="Ori" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>/mvJxgoaTxWZSnkLWZ2ElKfU2oqYmQk95m/mP8vGXXo=</dsig:DigestValue>
+        <dsig:DigestValue>40yKmAOn8/hJbTwMbxhjy2fBoKWJbNHlYgoJDXR50VM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

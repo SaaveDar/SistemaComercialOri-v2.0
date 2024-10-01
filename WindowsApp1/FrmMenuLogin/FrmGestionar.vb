@@ -3722,4 +3722,8 @@ CreaEncontroSN:
     Private Sub LBLIniciar_Click(sender As Object, e As EventArgs) Handles LBLIniciar.Click
         CmdIniciarOper_Click(Nothing, Nothing)
     End Sub
+
+    Private Sub IconButton5_Click(sender As Object, e As EventArgs) Handles IconButton5.Click
+
+    End Sub
 End Class
