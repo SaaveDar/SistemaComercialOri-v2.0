@@ -1,0 +1,351 @@
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\Ori.exe.config
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\Ori.exe.manifest
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\Ori.application
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\Ori.exe
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\Ori.pdb
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\Ori.xml
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\CircularProgressBar.dll
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\CrystalDecisions.ReportSource.dll
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\CrystalDecisions.Shared.dll
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\CrystalDecisions.Windows.Forms.dll
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\Firebase.dll
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\FontAwesome.Sharp.dll
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\GMap.NET.Core.dll
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\GMap.NET.WindowsForms.dll
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\Google.Api.Gax.dll
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\Google.Api.Gax.Rest.dll
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\Google.Apis.Auth.dll
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\Google.Apis.Auth.PlatformServices.dll
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\Google.Apis.Core.dll
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\Google.Apis.dll
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\Google.Apis.PlatformServices.dll
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\Newtonsoft.Json.dll
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\RestSharp.dll
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\System.Collections.Immutable.dll
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\System.Interactive.Async.dll
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\System.Reactive.Core.dll
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\System.Reactive.Interfaces.dll
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\System.Reactive.Linq.dll
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\System.Reactive.PlatformServices.dll
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\System.Reactive.Windows.Threading.dll
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\WinFormAnimation.dll
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\zxing.dll
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\zxing.presentation.dll
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\stdole.dll
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\CircularProgressBar.xml
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\Google.Api.Gax.pdb
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\Google.Api.Gax.xml
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\Google.Api.Gax.Rest.pdb
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\Google.Api.Gax.Rest.xml
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\Google.Apis.pdb
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\Google.Apis.xml
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\Google.Apis.Auth.pdb
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\Google.Apis.Auth.xml
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\Google.Apis.Core.pdb
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\Google.Apis.Core.xml
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\Newtonsoft.Json.xml
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\RestSharp.xml
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\System.Collections.Immutable.xml
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\System.Interactive.Async.xml
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\System.Reactive.Core.xml
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\System.Reactive.Interfaces.xml
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\System.Reactive.Linq.xml
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\System.Reactive.PlatformServices.xml
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\System.Reactive.Windows.Threading.xml
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\zxing.xml
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\bin\Release\zxing.presentation.xml
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\obj\Release\SistemaComercialOri.vbproj.AssemblyReference.cache
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\obj\Release\SistemaComercialOri.vbproj.ResolveComReference.cache
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmOper.resources
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmBuscadores.resources
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmBuscaUsuarios.resources
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmLoteOper.resources
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmRefProd.resources
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmSaldosSN.resources
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmConfLocal.resources
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmFormatosOper.resources
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmFormatosCR.resources
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmControlComboBox.resources
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmCreaNegocio.resources
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmCreaUsuario.resources
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmEnlacesComp.resources
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmEsperar.resources
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmFilaGrid.resources
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmLogin.resources
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmMenuConfigurar.resources
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmControlCajas.resources
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmGestionar.resources
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmProductos.resources
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmMenuProductos.resources
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmOperaciones.resources
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmOperDetalle.resources
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmOperFinanzas.resources
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmPerfil.resources
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmPermisoUsuario.resources
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmPorDefectoNegocio.resources
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmProductosServicios.resources
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmCarga.resources
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmFondo.resources
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.ModeloBase3.resources
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.Resources.resources
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FormMessageBox.resources
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmPuntoVenta.resources
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.Frmwp.resources
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\obj\Release\SistemaComercialOri.vbproj.GenerateResource.cache
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\obj\Release\SistemaComercialOri.vbproj.CoreCompileInputs.cache
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\obj\Release\Ori.exe.manifest
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\obj\Release\Ori.application
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\obj\Release\SistemaComercialOri.vbproj.CopyComplete
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\obj\Release\Ori.exe
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\obj\Release\Ori.xml
+H:\Fuentes\ORI\SistemaComercialOri\WindowsApp1\obj\Release\Ori.pdb
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\Ori.exe.config
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\Ori.exe.manifest
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\Ori.application
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\Ori.exe
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\Ori.pdb
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\Ori.xml
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\CircularProgressBar.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\CrystalDecisions.ReportSource.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\CrystalDecisions.Shared.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\CrystalDecisions.Windows.Forms.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\documentManager.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\Firebase.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\FontAwesome.Sharp.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\GMap.NET.Core.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\GMap.NET.WindowsForms.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\Google.Api.Gax.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\Google.Api.Gax.Rest.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\Google.Apis.Auth.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\Google.Apis.Auth.PlatformServices.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\Google.Apis.Core.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\Google.Apis.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\Google.Apis.PlatformServices.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\Newtonsoft.Json.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\RestSharp.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\System.Collections.Immutable.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\System.Interactive.Async.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\System.Reactive.Core.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\System.Reactive.Interfaces.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\System.Reactive.Linq.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\System.Reactive.PlatformServices.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\System.Reactive.Windows.Threading.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\WinFormAnimation.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\zxing.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\zxing.presentation.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\stdole.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\documentManager.pdb
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\CircularProgressBar.xml
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\Google.Api.Gax.pdb
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\Google.Api.Gax.xml
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\Google.Api.Gax.Rest.pdb
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\Google.Api.Gax.Rest.xml
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\Google.Apis.pdb
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\Google.Apis.xml
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\Google.Apis.Auth.pdb
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\Google.Apis.Auth.xml
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\Google.Apis.Core.pdb
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\Google.Apis.Core.xml
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\Newtonsoft.Json.xml
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\RestSharp.xml
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\System.Collections.Immutable.xml
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\System.Interactive.Async.xml
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\System.Reactive.Core.xml
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\System.Reactive.Interfaces.xml
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\System.Reactive.Linq.xml
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\System.Reactive.PlatformServices.xml
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\System.Reactive.Windows.Threading.xml
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\zxing.xml
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\bin\Release\zxing.presentation.xml
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\obj\Release\SistemaComercialOri.vbproj.AssemblyReference.cache
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\obj\Release\SistemaComercialOri.vbproj.ResolveComReference.cache
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmOper.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmBuscadores.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmBuscaUsuarios.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmGruposProd.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmLoteOper.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmRefProd.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmSaldosSN.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmConfLocal.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmFormatosOper.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmFormatosCR.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmControlComboBox.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmCreaNegocio.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmCreaUsuario.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmEnlacesComp.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmEsperar.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmFilaGrid.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmLogin.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmMenuConfigurar.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmControlCajas.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmGestionar.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmProductos.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmMenuProductos.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmOperaciones.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmOperDetalle.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmOperFinanzas.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmPerfil.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmPermisoUsuario.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmPorDefectoNegocio.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmProductosServicios.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmCarga.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmFondo.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.ModeloBase3.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.Resources.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FormMessageBox.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.FrmPuntoVenta.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\obj\Release\WindowsApp1.Frmwp.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\obj\Release\SistemaComercialOri.vbproj.GenerateResource.cache
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\obj\Release\SistemaComercialOri.vbproj.CoreCompileInputs.cache
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\obj\Release\Ori.exe.manifest
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\obj\Release\Ori.application
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\obj\Release\SistemaComercialOri.vbproj.CopyComplete
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\obj\Release\Ori.exe
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\obj\Release\Ori.xml
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri\WindowsApp1\obj\Release\Ori.pdb
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\Ori.exe.config
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\Ori.exe.manifest
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\Ori.application
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\Ori.exe
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\Ori.pdb
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\Ori.xml
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\CircularProgressBar.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\CrystalDecisions.ReportSource.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\CrystalDecisions.Shared.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\CrystalDecisions.Windows.Forms.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\documentManager.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\Firebase.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\FontAwesome.Sharp.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\GMap.NET.Core.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\GMap.NET.WindowsForms.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\Google.Api.Gax.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\Google.Api.Gax.Rest.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\Google.Apis.Auth.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\Google.Apis.Auth.PlatformServices.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\Google.Apis.Core.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\Google.Apis.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\Google.Apis.PlatformServices.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\Newtonsoft.Json.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\RestSharp.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\System.Collections.Immutable.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\System.Interactive.Async.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\System.Reactive.Core.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\System.Reactive.Interfaces.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\System.Reactive.Linq.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\System.Reactive.PlatformServices.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\System.Reactive.Windows.Threading.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\WinFormAnimation.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\zxing.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\zxing.presentation.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\stdole.dll
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\documentManager.pdb
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\CircularProgressBar.xml
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\Google.Api.Gax.pdb
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\Google.Api.Gax.xml
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\Google.Api.Gax.Rest.pdb
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\Google.Api.Gax.Rest.xml
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\Google.Apis.pdb
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\Google.Apis.xml
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\Google.Apis.Auth.pdb
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\Google.Apis.Auth.xml
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\Google.Apis.Core.pdb
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\Google.Apis.Core.xml
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\Newtonsoft.Json.xml
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\RestSharp.xml
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\System.Collections.Immutable.xml
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\System.Interactive.Async.xml
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\System.Reactive.Core.xml
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\System.Reactive.Interfaces.xml
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\System.Reactive.Linq.xml
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\System.Reactive.PlatformServices.xml
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\System.Reactive.Windows.Threading.xml
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\zxing.xml
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\bin\Release\zxing.presentation.xml
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\obj\Release\SistemaComercialOri.vbproj.AssemblyReference.cache
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\obj\Release\SistemaComercialOri.vbproj.ResolveComReference.cache
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\obj\Release\WindowsApp1.FrmOper.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\obj\Release\WindowsApp1.FrmBuscadores.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\obj\Release\WindowsApp1.FrmBuscaUsuarios.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\obj\Release\WindowsApp1.FrmGruposProd.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\obj\Release\WindowsApp1.FrmLoteOper.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\obj\Release\WindowsApp1.FrmRefProd.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\obj\Release\WindowsApp1.FrmSaldosSN.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\obj\Release\WindowsApp1.FrmConfLocal.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\obj\Release\WindowsApp1.FrmFormatosOper.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\obj\Release\WindowsApp1.FrmFormatosCR.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\obj\Release\WindowsApp1.FrmControlComboBox.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\obj\Release\WindowsApp1.FrmCreaNegocio.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\obj\Release\WindowsApp1.FrmCreaUsuario.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\obj\Release\WindowsApp1.FrmEnlacesComp.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\obj\Release\WindowsApp1.FrmEsperar.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\obj\Release\WindowsApp1.FrmFilaGrid.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\obj\Release\WindowsApp1.FrmLogin.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\obj\Release\WindowsApp1.FrmMenuConfigurar.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\obj\Release\WindowsApp1.FrmControlCajas.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\obj\Release\WindowsApp1.FrmGestionar.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\obj\Release\WindowsApp1.FrmProductos.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\obj\Release\WindowsApp1.FrmMenuProductos.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\obj\Release\WindowsApp1.FrmOperaciones.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\obj\Release\WindowsApp1.FrmOperDetalle.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\obj\Release\WindowsApp1.FrmOperFinanzas.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\obj\Release\WindowsApp1.FrmPerfil.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\obj\Release\WindowsApp1.FrmPermisoUsuario.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\obj\Release\WindowsApp1.FrmPorDefectoNegocio.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\obj\Release\WindowsApp1.FrmProductosServicios.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\obj\Release\WindowsApp1.FrmCarga.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\obj\Release\WindowsApp1.FrmFondo.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\obj\Release\WindowsApp1.ModeloBase3.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\obj\Release\WindowsApp1.Resources.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\obj\Release\WindowsApp1.FormMessageBox.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\obj\Release\WindowsApp1.FrmPuntoVenta.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\obj\Release\WindowsApp1.Frmwp.resources
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\obj\Release\SistemaComercialOri.vbproj.GenerateResource.cache
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\obj\Release\SistemaComercialOri.vbproj.CoreCompileInputs.cache
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\obj\Release\Ori.exe.manifest
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\obj\Release\Ori.application
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\obj\Release\Ori.exe
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\obj\Release\Ori.xml
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\obj\Release\Ori.pdb
+D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\obj\Release\SistemaComercialOri.vbproj.CopyComplete

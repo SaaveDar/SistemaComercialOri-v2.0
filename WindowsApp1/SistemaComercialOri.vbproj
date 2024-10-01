@@ -1,0 +1,770 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5263C36B-8E39-4866-B764-D7882F78AD0C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApp1.My.MyApplication</StartupObject>
+    <RootNamespace>WindowsApp1</RootNamespace>
+    <AssemblyName>Ori</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>5</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Ori.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <WarningLevel>1</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Ori.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <WarningLevel>1</WarningLevel>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>IcoLogo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>1F4986457866C450642119CDC4C279069001C74E</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>SistemaComercialOri_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\Ejemplo\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="CircularProgressBar, Version=2.8.0.16, Culture=neutral, PublicKeyToken=310fd07b25df79b3, processorArchitecture=MSIL">
+      <HintPath>..\packages\CircularProgressBar.2.8.0.16\lib\net40\CircularProgressBar.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="Firebase, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\FirebaseDatabase.net.3.3.3\lib\netstandard1.1\Firebase.dll</HintPath>
+    </Reference>
+    <Reference Include="FontAwesome.Sharp, Version=5.15.4.0, Culture=neutral, PublicKeyToken=d16d1e4e568ec10f, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.Sharp.5.15.4\lib\net45\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="GMap.NET.Core, Version=1.7.5.0, Culture=neutral, PublicKeyToken=b85b9027b614afef, processorArchitecture=MSIL">
+      <HintPath>..\packages\GMap.NET.WindowsForms.1.7.5\lib\net40\GMap.NET.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="GMap.NET.WindowsForms, Version=1.7.5.0, Culture=neutral, PublicKeyToken=b85b9027b614afef, processorArchitecture=MSIL">
+      <HintPath>..\packages\GMap.NET.WindowsForms.1.7.5\lib\net40\GMap.NET.WindowsForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Api.Gax, Version=2.7.0.0, Culture=neutral, PublicKeyToken=3ec5ea7f18953e47, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Api.Gax.2.7.0\lib\net45\Google.Api.Gax.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Api.Gax.Rest, Version=2.7.0.0, Culture=neutral, PublicKeyToken=3ec5ea7f18953e47, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Api.Gax.Rest.2.7.0\lib\net45\Google.Api.Gax.Rest.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis, Version=1.40.0.0, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Apis.1.40.0\lib\net45\Google.Apis.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis.Auth, Version=1.40.0.0, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Apis.Auth.1.40.0\lib\net45\Google.Apis.Auth.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis.Auth.PlatformServices, Version=1.40.0.0, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Apis.Auth.1.40.0\lib\net45\Google.Apis.Auth.PlatformServices.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis.Core, Version=1.40.0.0, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Apis.Core.1.40.0\lib\net45\Google.Apis.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis.PlatformServices, Version=1.40.0.0, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Apis.1.40.0\lib\net45\Google.Apis.PlatformServices.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="RestSharp, Version=105.2.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\RestSharp.105.2.3\lib\net45\RestSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Collections.Immutable, Version=1.2.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Collections.Immutable.1.5.0\lib\portable-net45+win8+wp8+wpa81\System.Collections.Immutable.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Interactive.Async, Version=3.2.0.0, Culture=neutral, PublicKeyToken=94bc3704cddfc263, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Interactive.Async.3.2.0\lib\net45\System.Interactive.Async.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Reactive.Core, Version=3.0.1000.0, Culture=neutral, PublicKeyToken=94bc3704cddfc263, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Reactive.Core.3.1.1\lib\net45\System.Reactive.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reactive.Interfaces, Version=3.0.1000.0, Culture=neutral, PublicKeyToken=94bc3704cddfc263, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Reactive.Interfaces.3.1.1\lib\net45\System.Reactive.Interfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reactive.Linq, Version=3.0.1000.0, Culture=neutral, PublicKeyToken=94bc3704cddfc263, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Reactive.Linq.3.1.1\lib\net45\System.Reactive.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reactive.PlatformServices, Version=3.0.1000.0, Culture=neutral, PublicKeyToken=94bc3704cddfc263, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Reactive.PlatformServices.3.1.1\lib\net45\System.Reactive.PlatformServices.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reactive.Windows.Threading, Version=3.0.1000.0, Culture=neutral, PublicKeyToken=94bc3704cddfc263, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Reactive.Windows.Threading.3.1.1\lib\net45\System.Reactive.Windows.Threading.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.InteropServices.RuntimeInformation, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.InteropServices.RuntimeInformation.4.3.0\lib\net45\System.Runtime.InteropServices.RuntimeInformation.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WinFormAnimation, Version=1.6.0.4, Culture=neutral, PublicKeyToken=310fd07b25df79b3, processorArchitecture=MSIL">
+      <HintPath>..\packages\WinFormAnimation.1.6.0.4\lib\net40\WinFormAnimation.dll</HintPath>
+    </Reference>
+    <Reference Include="zxing, Version=0.16.9.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZXing.Net.0.16.9\lib\net45\zxing.dll</HintPath>
+    </Reference>
+    <Reference Include="zxing.presentation, Version=0.16.9.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZXing.Net.0.16.9\lib\net45\zxing.presentation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Administrador\FrmOper.Designer.vb">
+      <DependentUpon>FrmOper.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador\FrmOper.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Buscadores\FrmBuscadores.Designer.vb">
+      <DependentUpon>FrmBuscadores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Buscadores\FrmBuscadores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Buscadores\FrmBuscaUsuarios.Designer.vb">
+      <DependentUpon>FrmBuscaUsuarios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Buscadores\FrmBuscaUsuarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Buscadores\FrmGruposProd.Designer.vb">
+      <DependentUpon>FrmGruposProd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Buscadores\FrmGruposProd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Buscadores\FrmLoteOper.Designer.vb">
+      <DependentUpon>FrmLoteOper.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Buscadores\FrmLoteOper.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Buscadores\FrmRefProd.Designer.vb">
+      <DependentUpon>FrmRefProd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Buscadores\FrmRefProd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Buscadores\FrmSaldosSN.Designer.vb">
+      <DependentUpon>FrmSaldosSN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Buscadores\FrmSaldosSN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConexionApi\Almacenes.vb" />
+    <Compile Include="ConexionApi\Cargas.vb" />
+    <Compile Include="ConexionApi\Locales.vb" />
+    <Compile Include="ConexionApi\Negocio.vb" />
+    <Compile Include="ConexionApi\TablasMaestros.vb" />
+    <Compile Include="ConexionApi\Usuarios.vb" />
+    <Compile Include="ConexionApi\VariablesPublicas.vb" />
+    <Compile Include="ConexionSQL\CadenaSQL.vb" />
+    <Compile Include="Configuraciones\FrmConfLocal.Designer.vb">
+      <DependentUpon>FrmConfLocal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Configuraciones\FrmConfLocal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Configuraciones\FrmFormatosOper.Designer.vb">
+      <DependentUpon>FrmFormatosOper.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Configuraciones\FrmFormatosOper.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Constantes.vb" />
+    <Compile Include="DBApi.vb" />
+    <Compile Include="FormatosCrystal\CR_F80.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CR_F80.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="FormatosCrystal\CR_Formatos.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CR_Formatos.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="FormatosCrystal\DataSet_Caja.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_Caja.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FormatosCrystal\DataSet_formatos.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_formatos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FormatosCrystal\DataSet_formatos.vb">
+      <DependentUpon>DataSet_formatos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FormatosCrystal\FrmFormatosCR.Designer.vb">
+      <DependentUpon>FrmFormatosCR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormatosCrystal\FrmFormatosCR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormatosCrystal\RE_CAJA1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RE_CAJA.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="FrmControlComboBox.Designer.vb">
+      <DependentUpon>FrmControlComboBox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmControlComboBox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCreaNegocio.Designer.vb">
+      <DependentUpon>FrmCreaNegocio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCreaNegocio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCreaUsuario.Designer.vb">
+      <DependentUpon>FrmCreaUsuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCreaUsuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEnlacesComp.Designer.vb">
+      <DependentUpon>FrmEnlacesComp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEnlacesComp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEsperar.Designer.vb">
+      <DependentUpon>FrmEsperar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEsperar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmFilaGrid.Designer.vb">
+      <DependentUpon>FrmFilaGrid.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmFilaGrid.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.vb">
+      <DependentUpon>FrmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMenuConfigurar.Designer.vb">
+      <DependentUpon>FrmMenuConfigurar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMenuConfigurar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMenuLogin\FrmControlCajas.Designer.vb">
+      <DependentUpon>FrmControlCajas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMenuLogin\FrmControlCajas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMenuLogin\FrmGestionar.Designer.vb">
+      <DependentUpon>FrmGestionar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMenuLogin\FrmGestionar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMenuLogin\FrmProductos.Designer.vb">
+      <DependentUpon>FrmProductos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMenuLogin\FrmProductos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMenuProductos.Designer.vb">
+      <DependentUpon>FrmMenuProductos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMenuProductos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmOperaciones.Designer.vb">
+      <DependentUpon>FrmOperaciones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmOperaciones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmOperDetalle.Designer.vb">
+      <DependentUpon>FrmOperDetalle.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmOperDetalle.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmOperFinanzas.Designer.vb">
+      <DependentUpon>FrmOperFinanzas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmOperFinanzas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPerfil.Designer.vb">
+      <DependentUpon>FrmPerfil.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPerfil.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPermisoUsuario.Designer.vb">
+      <DependentUpon>FrmPermisoUsuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPermisoUsuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPorDefectoNegocio.Designer.vb">
+      <DependentUpon>FrmPorDefectoNegocio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPorDefectoNegocio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmProductosServicios.Designer.vb">
+      <DependentUpon>FrmProductosServicios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmProductosServicios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funciones.vb" />
+    <Compile Include="Interfaz\FrmCarga.Designer.vb">
+      <DependentUpon>FrmCarga.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaz\FrmCarga.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interfaz\FrmFondo.Designer.vb">
+      <DependentUpon>FrmFondo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaz\FrmFondo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModeloBase3.Designer.vb">
+      <DependentUpon>ModeloBase3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ModeloBase3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Operaciones\VariablesOper.vb" />
+    <Compile Include="Parametro.vb" />
+    <Compile Include="Personalizados\FormMessageBox.Designer.vb">
+      <DependentUpon>FormMessageBox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Personalizados\FormMessageBox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personalizados\MensajesBox.vb" />
+    <Compile Include="PuntoVenta\FrmPuntoVenta.Designer.vb">
+      <DependentUpon>FrmPuntoVenta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PuntoVenta\FrmPuntoVenta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RedesSociales\Frmwp.Designer.vb">
+      <DependentUpon>Frmwp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RedesSociales\Frmwp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Administrador\FrmOper.resx">
+      <DependentUpon>FrmOper.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Buscadores\FrmBuscadores.resx">
+      <DependentUpon>FrmBuscadores.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Buscadores\FrmBuscaUsuarios.resx">
+      <DependentUpon>FrmBuscaUsuarios.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Buscadores\FrmGruposProd.resx">
+      <DependentUpon>FrmGruposProd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Buscadores\FrmLoteOper.resx">
+      <DependentUpon>FrmLoteOper.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Buscadores\FrmRefProd.resx">
+      <DependentUpon>FrmRefProd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Buscadores\FrmSaldosSN.resx">
+      <DependentUpon>FrmSaldosSN.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Configuraciones\FrmConfLocal.resx">
+      <DependentUpon>FrmConfLocal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Configuraciones\FrmFormatosOper.resx">
+      <DependentUpon>FrmFormatosOper.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormatosCrystal\CR_F80.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CR_F80.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormatosCrystal\CR_Formatos.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CR_Formatos.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormatosCrystal\FrmFormatosCR.resx">
+      <DependentUpon>FrmFormatosCR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormatosCrystal\RE_CAJA.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RE_CAJA1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmControlComboBox.resx">
+      <DependentUpon>FrmControlComboBox.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCreaNegocio.resx">
+      <DependentUpon>FrmCreaNegocio.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCreaUsuario.resx">
+      <DependentUpon>FrmCreaUsuario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEnlacesComp.resx">
+      <DependentUpon>FrmEnlacesComp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEsperar.resx">
+      <DependentUpon>FrmEsperar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmFilaGrid.resx">
+      <DependentUpon>FrmFilaGrid.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMenuConfigurar.resx">
+      <DependentUpon>FrmMenuConfigurar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMenuLogin\FrmControlCajas.resx">
+      <DependentUpon>FrmControlCajas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMenuLogin\FrmGestionar.resx">
+      <DependentUpon>FrmGestionar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMenuLogin\FrmProductos.resx">
+      <DependentUpon>FrmProductos.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMenuProductos.resx">
+      <DependentUpon>FrmMenuProductos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmOperaciones.resx">
+      <DependentUpon>FrmOperaciones.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmOperDetalle.resx">
+      <DependentUpon>FrmOperDetalle.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmOperFinanzas.resx">
+      <DependentUpon>FrmOperFinanzas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPerfil.resx">
+      <DependentUpon>FrmPerfil.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPermisoUsuario.resx">
+      <DependentUpon>FrmPermisoUsuario.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPorDefectoNegocio.resx">
+      <DependentUpon>FrmPorDefectoNegocio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmProductosServicios.resx">
+      <DependentUpon>FrmProductosServicios.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interfaz\FrmCarga.resx">
+      <DependentUpon>FrmCarga.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interfaz\FrmFondo.resx">
+      <DependentUpon>FrmFondo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModeloBase3.resx">
+      <DependentUpon>ModeloBase3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personalizados\FormMessageBox.resx">
+      <DependentUpon>FormMessageBox.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PuntoVenta\FrmPuntoVenta.resx">
+      <DependentUpon>FrmPuntoVenta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RedesSociales\Frmwp.resx">
+      <DependentUpon>Frmwp.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="FormatosCrystal\DataSet_Caja.xsc">
+      <DependentUpon>DataSet_Caja.xsd</DependentUpon>
+    </None>
+    <None Include="FormatosCrystal\DataSet_Caja.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_Caja.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="FormatosCrystal\DataSet_Caja.xss">
+      <DependentUpon>DataSet_Caja.xsd</DependentUpon>
+    </None>
+    <None Include="FormatosCrystal\DataSet_formatos.xsc">
+      <DependentUpon>DataSet_formatos.xsd</DependentUpon>
+    </None>
+    <None Include="FormatosCrystal\DataSet_formatos.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_formatos.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="FormatosCrystal\DataSet_formatos.xss">
+      <DependentUpon>DataSet_formatos.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="SistemaComercialOri_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\click1.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\farma.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gota1.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\userd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\editar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eliminar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ver.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IcoLogo.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\75b26587a0.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\negocio.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exclamation.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\information.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\question.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\click2.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dc1b89fc2b.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cargando-loading-035.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="BarraIco.ico" />
+    <Content Include="IcoLogo.ico" />
+    <None Include="Resources\moneda.png" />
+    <None Include="Resources\billete.png" />
+    <None Include="Resources\precio.png" />
+    <None Include="Resources\lote.png" />
+    <None Include="Resources\buscar.png" />
+    <None Include="Resources\linea1.png" />
+    <None Include="Resources\ok.png" />
+    <None Include="Resources\bloq.png" />
+    <None Include="Resources\edit.png" />
+    <None Include="Resources\del.png" />
+    <None Include="Resources\add.png" />
+    <None Include="Resources\click4.wav" />
+    <None Include="Resources\click2.mp3" />
+    <None Include="Resources\Quitar.png" />
+    <None Include="Resources\fondo5.png" />
+    <None Include="Resources\fon5.png" />
+    <None Include="Resources\fondo4.png" />
+    <None Include="Resources\fondo3.png" />
+    <None Include="Resources\fondo2.png" />
+    <None Include="Resources\fondo1.png" />
+    <None Include="Resources\local.png" />
+    <None Include="Resources\gps1.png" />
+    <None Include="Resources\farmacia.png" />
+    <None Include="Resources\distrib.png" />
+    <None Include="Resources\deli.png" />
+    <None Include="Resources\botica.png" />
+    <None Include="Resources\alma.png" />
+    <None Include="Resources\Logo9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Ori FacturacionElectronica\documentManager\documentManager.csproj">
+      <Project>{2a7c00f4-0fdd-4078-98f8-a0eb8eb1b1f7}</Project>
+      <Name>documentManager</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

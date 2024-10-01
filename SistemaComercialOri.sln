@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SistemaComercialOri", "WindowsApp1\SistemaComercialOri.vbproj", "{5263C36B-8E39-4866-B764-D7882F78AD0C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Instalador Ori", "Instalador Ori\Instalador Ori.vdproj", "{F8E11B2C-1A13-4E9E-91E6-40F8EAE2D654}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "documentManager", "..\Ori FacturacionElectronica\documentManager\documentManager.csproj", "{2A7C00F4-0FDD-4078-98F8-A0EB8EB1B1F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5263C36B-8E39-4866-B764-D7882F78AD0C}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{5263C36B-8E39-4866-B764-D7882F78AD0C}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{5263C36B-8E39-4866-B764-D7882F78AD0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5263C36B-8E39-4866-B764-D7882F78AD0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8E11B2C-1A13-4E9E-91E6-40F8EAE2D654}.Debug|Any CPU.ActiveCfg = Release
+		{F8E11B2C-1A13-4E9E-91E6-40F8EAE2D654}.Debug|Any CPU.Build.0 = Release
+		{F8E11B2C-1A13-4E9E-91E6-40F8EAE2D654}.Release|Any CPU.ActiveCfg = Release
+		{2A7C00F4-0FDD-4078-98F8-A0EB8EB1B1F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A7C00F4-0FDD-4078-98F8-A0EB8EB1B1F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A7C00F4-0FDD-4078-98F8-A0EB8EB1B1F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A7C00F4-0FDD-4078-98F8-A0EB8EB1B1F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B524B53E-1080-4A27-ABA9-B79DA2CEB354}
+	EndGlobalSection
+EndGlobal
