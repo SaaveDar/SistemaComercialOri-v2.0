@@ -591,31 +591,7 @@ Public Class ModeloBase3
 
     End Sub
 
-    Private Sub Button7_Click(sender As Object, e As EventArgs) Handles Button7.Click
 
-        Connection.srv = "34.134.43.163"
-        Connection.bd = "r23_negocio_cuenta"
-        Connection.usr = "sa"
-        Connection.pwd = "yp257sjtfBpqnNK8F%5s"
-        Connection.port = "1433"
-        Parametros.url_carpeta = "D:\Tempo" ' archivos xml temp
-
-        ' Crear una instancia de la clase Connection
-        Dim oCn As New Connection()
-
-        ' Intentar establecer la conexión
-        If oCn.setConnection() IsNot Nothing Then
-            MessageBox.Show("Se conectó correctamente")
-
-            ' Crear una instancia de la clase EmpresaCredencialesDAL
-            Dim empresaDAL As New EmpresaCredencialesDAL()
-
-            ' Cargar el entorno con el ID 22
-            empresaDAL.loadEnviroment(22)
-        End If
-
-        MessageBox.Show(Parametros.razon_social)
-    End Sub
 End Class
 Public Class MensajeEventArgs
     Inherits EventArgs

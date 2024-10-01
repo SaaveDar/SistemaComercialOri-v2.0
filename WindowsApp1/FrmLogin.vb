@@ -85,7 +85,7 @@ Empiezanuevamente:
             CERRAR_SESIONES()
             ConexionSQL_Maester()
 
-            'ConexionSQL_Cuentas()
+            ConexionSQL_Cuentas()
 
             ConexionSQL_Imagenes()
 
