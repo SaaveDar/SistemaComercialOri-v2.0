@@ -4,17 +4,17 @@
   <description asmv2:publisher="Ori" asmv2:product="Ori" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <deployment install="true" mapFileExtensions="true" />
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
-    <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
+    <framework targetVersion="4.8" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Ori.exe.manifest" size="34781">
+    <dependentAssembly dependencyType="install" codebase="Ori.exe.manifest" size="63781">
       <assemblyIdentity name="Ori.exe" version="1.0.0.5" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>6FsEkaSyN+8D5lH0jUZ24j/954Oi+xuAxq8TNqM3e9o=</dsig:DigestValue>
+        <dsig:DigestValue>z4Jp2QOxfdTVZymUTYVkI+PKnogWXyQQhxTEtUL/DU0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

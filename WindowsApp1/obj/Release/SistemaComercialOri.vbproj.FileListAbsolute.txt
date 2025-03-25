@@ -466,3 +466,379 @@ D:\Proyectos VisualStudio\Ori 2025\SistemaComercialOri-v2.0\WindowsApp1\obj\Rele
 D:\Proyectos VisualStudio\Ori 2025\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\Ori.xml
 D:\Proyectos VisualStudio\Ori 2025\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\Ori.pdb
 D:\Proyectos VisualStudio\Ori 2025\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\WindowsApp1.FrmReportes.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Ori.exe.config
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Ori.exe.manifest
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Ori.application
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Ori.exe
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Ori.pdb
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Ori.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Azure.Core.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Azure.Identity.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\CircularProgressBar.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Firebase.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\FontAwesome.Sharp.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\GMap.NET.Core.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\GMap.NET.WindowsForms.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Google.Api.Gax.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Google.Api.Gax.Rest.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Google.Apis.Auth.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Google.Apis.Auth.PlatformServices.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Google.Apis.Core.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Google.Apis.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Google.Apis.PlatformServices.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Microsoft.Data.SqlClient.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Microsoft.Identity.Client.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Microsoft.IdentityModel.Logging.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Newtonsoft.Json.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\RestSharp.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.Buffers.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.ClientModel.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.Collections.Immutable.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.Interactive.Async.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.IO.FileSystem.AccessControl.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.Memory.Data.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.Memory.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.Numerics.Vectors.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.Reactive.Core.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.Reactive.Interfaces.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.Reactive.Linq.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.Reactive.PlatformServices.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.Reactive.Windows.Threading.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.Security.AccessControl.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.Security.Permissions.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.Text.Json.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.ValueTuple.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\WinFormAnimation.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\zxing.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\zxing.presentation.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\stdole.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Azure.Core.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Azure.Identity.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\CircularProgressBar.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Google.Api.Gax.pdb
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Google.Api.Gax.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Google.Api.Gax.Rest.pdb
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Google.Api.Gax.Rest.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Google.Apis.pdb
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Google.Apis.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Google.Apis.Auth.pdb
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Google.Apis.Auth.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Google.Apis.Core.pdb
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Google.Apis.Core.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Microsoft.Data.SqlClient.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Microsoft.Identity.Client.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Microsoft.IdentityModel.Logging.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Microsoft.IdentityModel.Protocols.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Microsoft.IdentityModel.Tokens.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\Newtonsoft.Json.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\RestSharp.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.Buffers.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.ClientModel.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.Collections.Immutable.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.Configuration.ConfigurationManager.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.Interactive.Async.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.IO.FileSystem.AccessControl.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.Memory.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.Memory.Data.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.Numerics.Vectors.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.Reactive.Core.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.Reactive.Interfaces.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.Reactive.Linq.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.Reactive.PlatformServices.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.Reactive.Windows.Threading.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.Security.AccessControl.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.Security.Cryptography.ProtectedData.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.Security.Permissions.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.Security.Principal.Windows.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.Text.Json.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\System.ValueTuple.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\zxing.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\zxing.presentation.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\bin\Release\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\SistemaComercialOri.vbproj.AssemblyReference.cache
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\SistemaComercialOri.vbproj.ResolveComReference.cache
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\WindowsApp1.FrmOper.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\WindowsApp1.FrmBuscadores.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\WindowsApp1.FrmBuscaUsuarios.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\WindowsApp1.FrmGruposProd.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\WindowsApp1.FrmLoteOper.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\WindowsApp1.FrmRefProd.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\WindowsApp1.FrmSaldosSN.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\WindowsApp1.FrmConfLocal.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\WindowsApp1.FrmFormatosOper.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\WindowsApp1.FrmFormatosCR.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\WindowsApp1.FrmControlComboBox.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\WindowsApp1.FrmCreaNegocio.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\WindowsApp1.FrmCreaUsuario.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\WindowsApp1.FrmEnlacesComp.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\WindowsApp1.FrmEsperar.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\WindowsApp1.FrmFilaGrid.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\WindowsApp1.FrmLogin.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\WindowsApp1.FrmMenuConfigurar.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\WindowsApp1.FrmControlCajas.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\WindowsApp1.FrmGestionar.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\WindowsApp1.FrmProductos.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\WindowsApp1.FrmMenuProductos.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\WindowsApp1.FrmOperaciones.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\WindowsApp1.FrmOperDetalle.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\WindowsApp1.FrmOperFinanzas.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\WindowsApp1.FrmPerfil.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\WindowsApp1.FrmPermisoUsuario.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\WindowsApp1.FrmPorDefectoNegocio.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\WindowsApp1.FrmProductosServicios.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\WindowsApp1.FrmReportes.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\WindowsApp1.GrupoProductos.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\WindowsApp1.FrmCarga.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\WindowsApp1.FrmFondo.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\WindowsApp1.ModeloBase3.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\WindowsApp1.Resources.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\WindowsApp1.FormMessageBox.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\WindowsApp1.FrmPuntoVenta.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\WindowsApp1.Frmwp.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\WindowsApp1.ViewReporte.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\SistemaComercialOri.vbproj.GenerateResource.cache
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\SistemaComercialOri.vbproj.CoreCompileInputs.cache
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\Ori.exe.manifest
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\Ori.application
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\SistemaC.9D9AC658.Up2Date
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\Ori.exe
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\Ori.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0 - copia (10)_alan\WindowsApp1\obj\Release\Ori.pdb
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Ori.exe.config
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Ori.exe.manifest
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Ori.application
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Ori.exe
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Ori.pdb
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Ori.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Azure.Core.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Azure.Identity.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\CircularProgressBar.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Firebase.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\FontAwesome.Sharp.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\GMap.NET.Core.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\GMap.NET.WindowsForms.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Google.Api.Gax.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Google.Api.Gax.Rest.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Google.Apis.Auth.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Google.Apis.Auth.PlatformServices.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Google.Apis.Core.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Google.Apis.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Google.Apis.PlatformServices.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Microsoft.Data.SqlClient.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Microsoft.Identity.Client.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Microsoft.IdentityModel.Logging.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Newtonsoft.Json.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\RestSharp.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.Buffers.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.ClientModel.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.Collections.Immutable.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.Interactive.Async.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.IO.FileSystem.AccessControl.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.Memory.Data.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.Memory.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.Numerics.Vectors.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.Reactive.Core.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.Reactive.Interfaces.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.Reactive.Linq.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.Reactive.PlatformServices.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.Reactive.Windows.Threading.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.Security.AccessControl.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.Security.Permissions.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.Text.Json.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.ValueTuple.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\WinFormAnimation.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\zxing.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\zxing.presentation.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\stdole.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Azure.Core.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Azure.Identity.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\CircularProgressBar.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Google.Api.Gax.pdb
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Google.Api.Gax.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Google.Api.Gax.Rest.pdb
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Google.Api.Gax.Rest.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Google.Apis.pdb
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Google.Apis.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Google.Apis.Auth.pdb
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Google.Apis.Auth.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Google.Apis.Core.pdb
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Google.Apis.Core.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Microsoft.Data.SqlClient.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Microsoft.Identity.Client.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Microsoft.IdentityModel.Logging.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Microsoft.IdentityModel.Protocols.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Microsoft.IdentityModel.Tokens.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\Newtonsoft.Json.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\RestSharp.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.Buffers.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.ClientModel.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.Collections.Immutable.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.Configuration.ConfigurationManager.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.Interactive.Async.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.IO.FileSystem.AccessControl.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.Memory.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.Memory.Data.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.Numerics.Vectors.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.Reactive.Core.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.Reactive.Interfaces.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.Reactive.Linq.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.Reactive.PlatformServices.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.Reactive.Windows.Threading.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.Security.AccessControl.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.Security.Cryptography.ProtectedData.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.Security.Permissions.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.Security.Principal.Windows.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.Text.Json.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\System.ValueTuple.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\zxing.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\zxing.presentation.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\bin\Release\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\SistemaComercialOri.vbproj.AssemblyReference.cache
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\SistemaComercialOri.vbproj.ResolveComReference.cache
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\WindowsApp1.FrmOper.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\WindowsApp1.FrmBuscadores.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\WindowsApp1.FrmBuscaUsuarios.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\WindowsApp1.FrmGruposProd.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\WindowsApp1.FrmLoteOper.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\WindowsApp1.FrmRefProd.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\WindowsApp1.FrmSaldosSN.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\WindowsApp1.FrmConfLocal.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\WindowsApp1.FrmFormatosOper.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\WindowsApp1.FrmFormatosCR.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\WindowsApp1.FrmControlComboBox.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\WindowsApp1.FrmCreaNegocio.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\WindowsApp1.FrmCreaUsuario.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\WindowsApp1.FrmEnlacesComp.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\WindowsApp1.FrmEsperar.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\WindowsApp1.FrmFilaGrid.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\WindowsApp1.FrmLogin.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\WindowsApp1.FrmMenuConfigurar.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\WindowsApp1.FrmControlCajas.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\WindowsApp1.FrmGestionar.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\WindowsApp1.FrmProductos.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\WindowsApp1.FrmMenuProductos.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\WindowsApp1.FrmOperaciones.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\WindowsApp1.FrmOperDetalle.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\WindowsApp1.FrmOperFinanzas.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\WindowsApp1.FrmPerfil.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\WindowsApp1.FrmPermisoUsuario.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\WindowsApp1.FrmPorDefectoNegocio.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\WindowsApp1.FrmProductosServicios.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\WindowsApp1.FrmReportes.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\WindowsApp1.GrupoProductos.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\WindowsApp1.FrmCarga.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\WindowsApp1.FrmFondo.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\WindowsApp1.ModeloBase3.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\WindowsApp1.Resources.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\WindowsApp1.FormMessageBox.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\WindowsApp1.FrmPuntoVenta.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\WindowsApp1.Frmwp.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\WindowsApp1.ViewReporte.resources
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\SistemaComercialOri.vbproj.GenerateResource.cache
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\SistemaComercialOri.vbproj.CoreCompileInputs.cache
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\Ori.exe.manifest
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\Ori.application
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\SistemaC.9D9AC658.Up2Date
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\Ori.exe
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\Ori.xml
+C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\obj\Release\Ori.pdb

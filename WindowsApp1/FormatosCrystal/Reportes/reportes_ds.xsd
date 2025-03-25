@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="reportes_ds" targetNamespace="http://tempuri.org/reportes_ds.xsd" xmlns:mstns="http://tempuri.org/reportes_ds.xsd" xmlns="http://tempuri.org/reportes_ds.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="reportes_dt2" GeneratorFunctionsComponentClassName="reportes_dt2" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" UserFunctionsComponentName="reportes_dt2" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection ConnectionStringObject="Data Source=DESKTOP-HPLDERT;Initial Catalog=r23_negocio_cuenta;Persist Security Info=True;User ID=sa;Password=123;Encrypt=True;TrustServerCertificate=True" IsAppSettingsProperty="false" Modifier="Assembly" Name="desktop-hpldert.r23_negocio_cuenta.dbo" ParameterPrefix="@" Provider="Microsoft.Data.SqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="reportes_ds" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="reportes_ds" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="reportes_ds">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="reporte_dt" msprop:Generator_RowClassName="reporte_dtRow" msprop:Generator_RowEvHandlerName="reporte_dtRowChangeEventHandler" msprop:Generator_RowDeletedName="reporte_dtRowDeleted" msprop:Generator_RowDeletingName="reporte_dtRowDeleting" msprop:Generator_RowEvArgName="reporte_dtRowChangeEvent" msprop:Generator_TablePropName="reporte_dt" msprop:Generator_RowChangedName="reporte_dtRowChanged" msprop:Generator_UserTableName="reporte_dt" msprop:Generator_RowChangingName="reporte_dtRowChanging" msprop:Generator_TableClassName="reporte_dtDataTable" msprop:Generator_TableVarName="tablereporte_dt">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id_negocio" msprop:Generator_UserColumnName="id_negocio" msprop:Generator_ColumnPropNameInTable="id_negocioColumn" msprop:Generator_ColumnPropNameInRow="id_negocio" msprop:Generator_ColumnVarNameInTable="columnid_negocio" type="xs:string" minOccurs="0" />
+              <xs:element name="id_local" msprop:Generator_UserColumnName="id_local" msprop:Generator_ColumnPropNameInTable="id_localColumn" msprop:Generator_ColumnPropNameInRow="id_local" msprop:Generator_ColumnVarNameInTable="columnid_local" type="xs:string" minOccurs="0" />
+              <xs:element name="fecha_emis" msprop:Generator_UserColumnName="fecha_emis" msprop:Generator_ColumnPropNameInTable="fecha_emisColumn" msprop:Generator_ColumnPropNameInRow="fecha_emis" msprop:Generator_ColumnVarNameInTable="columnfecha_emis" type="xs:string" minOccurs="0" />
+              <xs:element name="Total" msprop:Generator_UserColumnName="Total" msprop:Generator_ColumnPropNameInTable="TotalColumn" msprop:Generator_ColumnPropNameInRow="Total" msprop:Generator_ColumnVarNameInTable="columnTotal" type="xs:string" minOccurs="0" />
+              <xs:element name="serie_comp" msprop:Generator_UserColumnName="serie_comp" msprop:Generator_ColumnPropNameInTable="serie_compColumn" msprop:Generator_ColumnPropNameInRow="serie_comp" msprop:Generator_ColumnVarNameInTable="columnserie_comp" type="xs:string" minOccurs="0" />
+              <xs:element name="numero_comp" msprop:Generator_UserColumnName="numero_comp" msprop:Generator_ColumnPropNameInTable="numero_compColumn" msprop:Generator_ColumnPropNameInRow="numero_comp" msprop:Generator_ColumnVarNameInTable="columnnumero_comp" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

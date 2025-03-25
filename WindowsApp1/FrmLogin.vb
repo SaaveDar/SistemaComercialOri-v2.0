@@ -29,15 +29,23 @@ Empiezanuevamente:
 
         ''**********
 
-
-
-        PCSERVER = "acosme"
-        PASSSEVER = "159357852456"
+        PCSERVER = "DESKTOP-HPLDERT"
+        PASSSEVER = "123"
         SASEVER = "sa"
         LK_ES_FORMATO_ESPANOL = True
         TxtUsuario.Text = "admin"
         txtContrasena.Text = "1234"
-        LK_RUTA_RPT = "D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\FormatosCrystal\"
+        LK_RUTA_RPT = "C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\FormatosCrystal\"
+        LK_RUTA_RPT_REPORTES = "C:\Users\DARLEY\source\repos\github\SistemaComercialOri-v2.0\WindowsApp1\Reportes\Formatos\"
+
+
+        'PCSERVER = "acosme"
+        'PASSSEVER = "159357852456"
+        'SASEVER = "sa"
+        'LK_ES_FORMATO_ESPANOL = True
+        'TxtUsuario.Text = "admin"
+        'txtContrasena.Text = "1234"
+        'LK_RUTA_RPT = "D:\Proyectos VisualStudio\Ori\SistemaComercialOri V2.0\WindowsApp1\FormatosCrystal\"
 
 
 
@@ -841,18 +849,47 @@ NoIngresa:
             Exit Sub
         End If
 
+
         Dim frMenuReportes As New FrmReportes
 
-        frMenuReportes.Show()
         frMenuReportes.TopLevel = False
-        PanelFormularios.Controls.Add(frMenuReportes)
+        'frMenuReportes.FormBorderStyle = FormBorderStyle.None
+        frMenuReportes.Dock = DockStyle.Fill ' Para que ocupe todo el espacio del panel principal
+        'frMenuReportes.WindowState = FormWindowState.Maximized
+        ''Me.PanelFormularios.Controls.Clear()
 
-        frMenuReportes.Left = 4
-        frMenuReportes.Top = 10
+        'Agregar el Form2 al panel principal y mostrarlo
+        Me.PanelFormularios.Controls.Add(frMenuReportes)
+        frMenuReportes.BringToFront() ' Traer el form2 al frente para que quede sobre el subpanel
+        frMenuReportes.Show()
 
-        PanelFormularios.Controls.Item(PanelFormularios.Controls.Count - 1).BringToFront() ' Ultimo Fomulario a primer plano
-        SelectNextControl(ActiveControl, True, True, True, True)
-        frMenuReportes.Focus()
+        'frMenuReportes.TopLevel = False
+        'frMenuReportes.FormBorderStyle = FormBorderStyle.None
+        'frMenuReportes.Dock = DockStyle.Fill ' Llenar el panel completamente
+        ''PanelIndicadores.SendToBack()
+        '' Agregar Form2 al Panel en Form1
+        'PanelFormularios.Controls.Add(frMenuReportes)
+
+        '' Mostrar Form2 dentro del panel
+        'frMenuReportes.Show()
+
+        'PanelFormularios.Controls.Item(PanelFormularios.Controls.Count - 1).BringToFront() ' Ultimo Fomulario a primer plano
+        'SelectNextControl(ActiveControl, True, True, True, True)
+        'frMenuReportes.Focus()
+
+
+        'Dim frMenuReportes As New FrmReportes
+
+        'frMenuReportes.Show()
+        'frMenuReportes.TopLevel = False
+        'PanelFormularios.Controls.Add(frMenuReportes)
+
+        'frMenuReportes.Left = 4
+        'frMenuReportes.Top = 10
+
+        'PanelFormularios.Controls.Item(PanelFormularios.Controls.Count - 1).BringToFront() ' Ultimo Fomulario a primer plano
+        'SelectNextControl(ActiveControl, True, True, True, True)
+        'frMenuReportes.Focus()
 
 
     End Sub

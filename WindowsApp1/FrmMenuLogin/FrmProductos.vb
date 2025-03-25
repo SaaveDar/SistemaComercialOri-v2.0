@@ -3126,4 +3126,5 @@ fin:
         TxtBuscar.Text = ""
         TxtBuscar.Focus()
     End Sub
+
 End Class

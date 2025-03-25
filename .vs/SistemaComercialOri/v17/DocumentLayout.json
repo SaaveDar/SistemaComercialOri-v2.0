@@ -1,12 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Proyectos VisualStudio\\Ori 2025\\SistemaComercialOri-v2.0\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\DARLEY\\source\\repos\\github\\SistemaComercialOri-v2.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5263C36B-8E39-4866-B764-D7882F78AD0C}|WindowsApp1\\SistemaComercialOri.vbproj|C:\\Users\\DARLEY\\source\\repos\\github\\SistemaComercialOri-v2.0\\windowsapp1\\frmreportes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5263C36B-8E39-4866-B764-D7882F78AD0C}|WindowsApp1\\SistemaComercialOri.vbproj|solutionrelative:windowsapp1\\frmreportes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5263C36B-8E39-4866-B764-D7882F78AD0C}|WindowsApp1\\SistemaComercialOri.vbproj|c:\\users\\darley\\source\\repos\\github\\sistemacomercialori-v2.0\\windowsapp1\\frmreportes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5263C36B-8E39-4866-B764-D7882F78AD0C}|WindowsApp1\\SistemaComercialOri.vbproj|solutionrelative:windowsapp1\\frmreportes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5263C36B-8E39-4866-B764-D7882F78AD0C}|WindowsApp1\\SistemaComercialOri.vbproj|C:\\Users\\DARLEY\\source\\repos\\github\\SistemaComercialOri-v2.0\\windowsapp1\\frmoperaciones.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5263C36B-8E39-4866-B764-D7882F78AD0C}|WindowsApp1\\SistemaComercialOri.vbproj|solutionrelative:windowsapp1\\frmoperaciones.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmReportes.vb",
+              "DocumentMoniker": "C:\\Users\\DARLEY\\source\\repos\\github\\SistemaComercialOri-v2.0\\WindowsApp1\\FrmReportes.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\FrmReportes.vb",
+              "ToolTip": "C:\\Users\\DARLEY\\source\\repos\\github\\SistemaComercialOri-v2.0\\WindowsApp1\\FrmReportes.vb",
+              "RelativeToolTip": "WindowsApp1\\FrmReportes.vb",
+              "ViewState": "AgIAAKsBAAAAAAAAAAAuwFwBAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-16T05:59:17.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmOperaciones.vb",
+              "DocumentMoniker": "C:\\Users\\DARLEY\\source\\repos\\github\\SistemaComercialOri-v2.0\\WindowsApp1\\FrmOperaciones.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\FrmOperaciones.vb",
+              "ToolTip": "C:\\Users\\DARLEY\\source\\repos\\github\\SistemaComercialOri-v2.0\\WindowsApp1\\FrmOperaciones.vb",
+              "RelativeToolTip": "WindowsApp1\\FrmOperaciones.vb",
+              "ViewState": "AgIAAFUGAAAAAAAAAAAEwF4GAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-16T05:57:29.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmReportes.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DARLEY\\source\\repos\\github\\SistemaComercialOri-v2.0\\WindowsApp1\\FrmReportes.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\FrmReportes.vb",
+              "ToolTip": "C:\\Users\\DARLEY\\source\\repos\\github\\SistemaComercialOri-v2.0\\WindowsApp1\\FrmReportes.vb [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsApp1\\FrmReportes.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-16T05:56:36.365Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

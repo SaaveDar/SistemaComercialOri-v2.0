@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="grupofiltros_ds" targetNamespace="http://tempuri.org/grupofiltros_ds.xsd" xmlns:mstns="http://tempuri.org/grupofiltros_ds.xsd" xmlns="http://tempuri.org/grupofiltros_ds.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="grupofiltros_ds" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="grupofiltros_ds" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="grupofiltros_ds">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="gruposfiltro_dt" msprop:Generator_RowClassName="gruposfiltro_dtRow" msprop:Generator_RowEvHandlerName="gruposfiltro_dtRowChangeEventHandler" msprop:Generator_RowDeletedName="gruposfiltro_dtRowDeleted" msprop:Generator_RowDeletingName="gruposfiltro_dtRowDeleting" msprop:Generator_RowEvArgName="gruposfiltro_dtRowChangeEvent" msprop:Generator_TablePropName="gruposfiltro_dt" msprop:Generator_RowChangedName="gruposfiltro_dtRowChanged" msprop:Generator_UserTableName="gruposfiltro_dt" msprop:Generator_RowChangingName="gruposfiltro_dtRowChanging" msprop:Generator_TableClassName="gruposfiltro_dtDataTable" msprop:Generator_TableVarName="tablegruposfiltro_dt">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id_negocio" msprop:Generator_UserColumnName="id_negocio" msprop:Generator_ColumnPropNameInTable="id_negocioColumn" msprop:Generator_ColumnPropNameInRow="id_negocio" msprop:Generator_ColumnVarNameInTable="columnid_negocio" type="xs:string" minOccurs="0" />
+              <xs:element name="id_prod_mae" msprop:Generator_UserColumnName="id_prod_mae" msprop:Generator_ColumnPropNameInTable="id_prod_maeColumn" msprop:Generator_ColumnPropNameInRow="id_prod_mae" msprop:Generator_ColumnVarNameInTable="columnid_prod_mae" type="xs:string" minOccurs="0" />
+              <xs:element name="NombreProducto" msprop:Generator_UserColumnName="NombreProducto" msprop:Generator_ColumnPropNameInTable="NombreProductoColumn" msprop:Generator_ColumnPropNameInRow="NombreProducto" msprop:Generator_ColumnVarNameInTable="columnNombreProducto" type="xs:string" minOccurs="0" />
+              <xs:element name="equiv_def" msprop:Generator_UserColumnName="equiv_def" msprop:Generator_ColumnPropNameInTable="equiv_defColumn" msprop:Generator_ColumnPropNameInRow="equiv_def" msprop:Generator_ColumnVarNameInTable="columnequiv_def" type="xs:string" minOccurs="0" />
+              <xs:element name="abreviado_pres_def" msprop:Generator_UserColumnName="abreviado_pres_def" msprop:Generator_ColumnPropNameInTable="abreviado_pres_defColumn" msprop:Generator_ColumnPropNameInRow="abreviado_pres_def" msprop:Generator_ColumnVarNameInTable="columnabreviado_pres_def" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

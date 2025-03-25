@@ -68,6 +68,8 @@
     Public LK_ACTIVA_SMS As String = ""
     Public LK_NOMBRE_PC As String = ""
     Public LK_RUTA_RPT As String = ""
+    Public LK_RUTA_RPT_REPORTES As String = ""
+
     Public lk_modo_oscuro As Integer = 0
 End Module
 

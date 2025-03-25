@@ -2159,15 +2159,13 @@ IrComprobante:
     Private Sub CmdFiltroPeriodo_Click(sender As Object, e As EventArgs) Handles CmdFiltroPeriodo.Click
         '' Dim codigos() As String = {"1", "2", "3", "4", "5", "6", "7"}
 
+
         Dim fechaini() As Date = {lk_fecha_dia}
         Array.Resize(fechaini, 7)
 
 
         Dim fechafin() As Date = {lk_fecha_dia}
         Array.Resize(fechafin, 7)
-
-
-
 
         Dim codigos() As String = {"0"}
         Array.Resize(codigos, 7)
@@ -3724,6 +3722,22 @@ CreaEncontroSN:
     End Sub
 
     Private Sub IconButton5_Click(sender As Object, e As EventArgs) Handles IconButton5.Click
+
+    End Sub
+
+    Private Sub Label2_Click(sender As Object, e As EventArgs) Handles Label2.Click
+
+    End Sub
+
+    Private Sub Inv_fechaini_ValueChanged(sender As Object, e As EventArgs) Handles Inv_fechaini.ValueChanged
+
+    End Sub
+
+    Private Sub Label6_Click(sender As Object, e As EventArgs) Handles Label6.Click
+
+    End Sub
+
+    Private Sub Inv_fechafin_ValueChanged(sender As Object, e As EventArgs) Handles Inv_fechafin.ValueChanged
 
     End Sub
 End Class

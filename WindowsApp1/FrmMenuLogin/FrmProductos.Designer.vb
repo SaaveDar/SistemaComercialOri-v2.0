@@ -33,6 +33,8 @@ Partial Class FrmProductos
         Dim DataGridViewCellStyle4 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Dim DataGridViewCellStyle5 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Me.PanelSup = New System.Windows.Forms.Panel()
+        Me.CmdNombreP = New FontAwesome.Sharp.IconButton()
+        Me.CmdCodigoProd = New FontAwesome.Sharp.IconButton()
         Me.IconButton3 = New FontAwesome.Sharp.IconButton()
         Me.CmdCrear = New FontAwesome.Sharp.IconButton()
         Me.Label12 = New System.Windows.Forms.Label()
@@ -128,6 +130,8 @@ Partial Class FrmProductos
         Me.PanelPrecios = New System.Windows.Forms.Panel()
         Me.CmdTipoLista = New FontAwesome.Sharp.IconButton()
         Me.CmdTipoCosto = New FontAwesome.Sharp.IconButton()
+        Me.dg_precios = New WindowsApp1.GridProductoMae_Plus()
+        Me.DataGridViewTextBoxColumn2 = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.blb_costo_ult = New System.Windows.Forms.Label()
         Me.Label13 = New System.Windows.Forms.Label()
         Me.CmdGrabaPrecios = New FontAwesome.Sharp.IconButton()
@@ -139,6 +143,8 @@ Partial Class FrmProductos
         Me.CmdLocalLista = New FontAwesome.Sharp.IconButton()
         Me.Label18 = New System.Windows.Forms.Label()
         Me.Label7 = New System.Windows.Forms.Label()
+        Me.dg_grid = New WindowsApp1.GridProductoMae_Plus()
+        Me.DataGridViewTextBoxColumn1 = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.Panel3 = New System.Windows.Forms.Panel()
         Me.CmdEstado = New FontAwesome.Sharp.IconButton()
         Me.lblEstado = New System.Windows.Forms.TextBox()
@@ -161,12 +167,6 @@ Partial Class FrmProductos
         Me.Label1 = New System.Windows.Forms.Label()
         Me.txt_idproducto = New System.Windows.Forms.TextBox()
         Me.Label8 = New System.Windows.Forms.Label()
-        Me.CmdCodigoProd = New FontAwesome.Sharp.IconButton()
-        Me.dg_precios = New WindowsApp1.GridProductoMae_Plus()
-        Me.DataGridViewTextBoxColumn2 = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.dg_grid = New WindowsApp1.GridProductoMae_Plus()
-        Me.DataGridViewTextBoxColumn1 = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.CmdNombreP = New FontAwesome.Sharp.IconButton()
         Me.PanelSup.SuspendLayout()
         Me.PanelBusquedas.SuspendLayout()
         Me.PanelCentro.SuspendLayout()
@@ -183,10 +183,10 @@ Partial Class FrmProductos
         Me.Panel4.SuspendLayout()
         Me.TabPage2.SuspendLayout()
         Me.PanelPrecios.SuspendLayout()
-        Me.Panel3.SuspendLayout()
-        Me.PanelLotes.SuspendLayout()
         CType(Me.dg_precios, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.dg_grid, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.Panel3.SuspendLayout()
+        Me.PanelLotes.SuspendLayout()
         Me.SuspendLayout()
         '
         'PanelSup
@@ -210,6 +210,50 @@ Partial Class FrmProductos
         Me.PanelSup.Name = "PanelSup"
         Me.PanelSup.Size = New System.Drawing.Size(1304, 68)
         Me.PanelSup.TabIndex = 0
+        '
+        'CmdNombreP
+        '
+        Me.CmdNombreP.FlatAppearance.BorderSize = 0
+        Me.CmdNombreP.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.CmdNombreP.Font = New System.Drawing.Font("Segoe UI", 8.25!)
+        Me.CmdNombreP.ForeColor = System.Drawing.Color.White
+        Me.CmdNombreP.IconChar = FontAwesome.Sharp.IconChar.Archive
+        Me.CmdNombreP.IconColor = System.Drawing.Color.White
+        Me.CmdNombreP.IconFont = FontAwesome.Sharp.IconFont.[Auto]
+        Me.CmdNombreP.IconSize = 18
+        Me.CmdNombreP.ImageAlign = System.Drawing.ContentAlignment.TopLeft
+        Me.CmdNombreP.Location = New System.Drawing.Point(3, 19)
+        Me.CmdNombreP.Margin = New System.Windows.Forms.Padding(3, 0, 3, 0)
+        Me.CmdNombreP.Name = "CmdNombreP"
+        Me.CmdNombreP.Size = New System.Drawing.Size(115, 21)
+        Me.CmdNombreP.TabIndex = 37
+        Me.CmdNombreP.Tag = "200"
+        Me.CmdNombreP.Text = "DESCRIPCION"
+        Me.CmdNombreP.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.CmdNombreP.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
+        Me.CmdNombreP.UseVisualStyleBackColor = True
+        '
+        'CmdCodigoProd
+        '
+        Me.CmdCodigoProd.FlatAppearance.BorderSize = 0
+        Me.CmdCodigoProd.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.CmdCodigoProd.Font = New System.Drawing.Font("Segoe UI", 8.25!)
+        Me.CmdCodigoProd.ForeColor = System.Drawing.Color.White
+        Me.CmdCodigoProd.IconChar = FontAwesome.Sharp.IconChar.Archive
+        Me.CmdCodigoProd.IconColor = System.Drawing.Color.White
+        Me.CmdCodigoProd.IconFont = FontAwesome.Sharp.IconFont.[Auto]
+        Me.CmdCodigoProd.IconSize = 18
+        Me.CmdCodigoProd.ImageAlign = System.Drawing.ContentAlignment.TopLeft
+        Me.CmdCodigoProd.Location = New System.Drawing.Point(117, 18)
+        Me.CmdCodigoProd.Margin = New System.Windows.Forms.Padding(3, 0, 3, 0)
+        Me.CmdCodigoProd.Name = "CmdCodigoProd"
+        Me.CmdCodigoProd.Size = New System.Drawing.Size(115, 21)
+        Me.CmdCodigoProd.TabIndex = 36
+        Me.CmdCodigoProd.Tag = "200"
+        Me.CmdCodigoProd.Text = "F10 CODIGO "
+        Me.CmdCodigoProd.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.CmdCodigoProd.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
+        Me.CmdCodigoProd.UseVisualStyleBackColor = True
         '
         'IconButton3
         '
@@ -1814,6 +1858,46 @@ Partial Class FrmProductos
         Me.CmdTipoCosto.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage
         Me.CmdTipoCosto.UseVisualStyleBackColor = False
         '
+        'dg_precios
+        '
+        Me.dg_precios.AllowUserToAddRows = False
+        Me.dg_precios.AllowUserToDeleteRows = False
+        Me.dg_precios.AllowUserToOrderColumns = True
+        Me.dg_precios.AllowUserToResizeRows = False
+        Me.dg_precios.BorderStyle = System.Windows.Forms.BorderStyle.None
+        Me.dg_precios.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.[Single]
+        Me.dg_precios.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        Me.dg_precios.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.DataGridViewTextBoxColumn2})
+        DataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.Window
+        DataGridViewCellStyle2.Font = New System.Drawing.Font("Segoe UI", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.ControlText
+        DataGridViewCellStyle2.SelectionBackColor = System.Drawing.Color.Gray
+        DataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
+        Me.dg_precios.DefaultCellStyle = DataGridViewCellStyle2
+        Me.dg_precios.id_local_grid = 0
+        Me.dg_precios.Location = New System.Drawing.Point(8, 79)
+        Me.dg_precios.MultiSelect = False
+        Me.dg_precios.Name = "dg_precios"
+        DataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Control
+        DataGridViewCellStyle3.Font = New System.Drawing.Font("Segoe UI", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.WindowText
+        DataGridViewCellStyle3.SelectionBackColor = System.Drawing.Color.Gray
+        DataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.dg_precios.RowHeadersDefaultCellStyle = DataGridViewCellStyle3
+        Me.dg_precios.RowHeadersVisible = False
+        Me.dg_precios.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.CellSelect
+        Me.dg_precios.Size = New System.Drawing.Size(617, 204)
+        Me.dg_precios.TabIndex = 35
+        '
+        'DataGridViewTextBoxColumn2
+        '
+        Me.DataGridViewTextBoxColumn2.HeaderText = "dg_precios"
+        Me.DataGridViewTextBoxColumn2.Name = "DataGridViewTextBoxColumn2"
+        '
         'blb_costo_ult
         '
         Me.blb_costo_ult.Font = New System.Drawing.Font("Segoe UI Semibold", 6.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
@@ -1965,6 +2049,46 @@ Partial Class FrmProductos
         Me.Label7.Tag = "10"
         Me.Label7.Text = "PRESENTACIONES ACTIVAS :"
         Me.Label7.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
+        '
+        'dg_grid
+        '
+        Me.dg_grid.AllowUserToAddRows = False
+        Me.dg_grid.AllowUserToDeleteRows = False
+        Me.dg_grid.AllowUserToOrderColumns = True
+        Me.dg_grid.AllowUserToResizeRows = False
+        Me.dg_grid.BorderStyle = System.Windows.Forms.BorderStyle.None
+        Me.dg_grid.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.[Single]
+        Me.dg_grid.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        Me.dg_grid.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.DataGridViewTextBoxColumn1})
+        DataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle4.BackColor = System.Drawing.SystemColors.Window
+        DataGridViewCellStyle4.Font = New System.Drawing.Font("Segoe UI", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle4.ForeColor = System.Drawing.SystemColors.ControlText
+        DataGridViewCellStyle4.SelectionBackColor = System.Drawing.Color.Gray
+        DataGridViewCellStyle4.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
+        Me.dg_grid.DefaultCellStyle = DataGridViewCellStyle4
+        Me.dg_grid.id_local_grid = 0
+        Me.dg_grid.Location = New System.Drawing.Point(6, 25)
+        Me.dg_grid.MultiSelect = False
+        Me.dg_grid.Name = "dg_grid"
+        DataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle5.BackColor = System.Drawing.SystemColors.Control
+        DataGridViewCellStyle5.Font = New System.Drawing.Font("Segoe UI", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle5.ForeColor = System.Drawing.SystemColors.WindowText
+        DataGridViewCellStyle5.SelectionBackColor = System.Drawing.Color.Gray
+        DataGridViewCellStyle5.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle5.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.dg_grid.RowHeadersDefaultCellStyle = DataGridViewCellStyle5
+        Me.dg_grid.RowHeadersVisible = False
+        Me.dg_grid.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.CellSelect
+        Me.dg_grid.Size = New System.Drawing.Size(613, 294)
+        Me.dg_grid.TabIndex = 16
+        '
+        'DataGridViewTextBoxColumn1
+        '
+        Me.DataGridViewTextBoxColumn1.HeaderText = "dg_grid"
+        Me.DataGridViewTextBoxColumn1.Name = "DataGridViewTextBoxColumn1"
         '
         'Panel3
         '
@@ -2221,130 +2345,6 @@ Partial Class FrmProductos
         Me.Label8.Text = "ID PRODUCTO : "
         Me.Label8.TextAlign = System.Drawing.ContentAlignment.MiddleRight
         '
-        'CmdCodigoProd
-        '
-        Me.CmdCodigoProd.FlatAppearance.BorderSize = 0
-        Me.CmdCodigoProd.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.CmdCodigoProd.Font = New System.Drawing.Font("Segoe UI", 8.25!)
-        Me.CmdCodigoProd.ForeColor = System.Drawing.Color.White
-        Me.CmdCodigoProd.IconChar = FontAwesome.Sharp.IconChar.Archive
-        Me.CmdCodigoProd.IconColor = System.Drawing.Color.White
-        Me.CmdCodigoProd.IconFont = FontAwesome.Sharp.IconFont.[Auto]
-        Me.CmdCodigoProd.IconSize = 18
-        Me.CmdCodigoProd.ImageAlign = System.Drawing.ContentAlignment.TopLeft
-        Me.CmdCodigoProd.Location = New System.Drawing.Point(117, 18)
-        Me.CmdCodigoProd.Margin = New System.Windows.Forms.Padding(3, 0, 3, 0)
-        Me.CmdCodigoProd.Name = "CmdCodigoProd"
-        Me.CmdCodigoProd.Size = New System.Drawing.Size(115, 21)
-        Me.CmdCodigoProd.TabIndex = 36
-        Me.CmdCodigoProd.Tag = "200"
-        Me.CmdCodigoProd.Text = "F10 CODIGO "
-        Me.CmdCodigoProd.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.CmdCodigoProd.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
-        Me.CmdCodigoProd.UseVisualStyleBackColor = True
-        '
-        'dg_precios
-        '
-        Me.dg_precios.AllowUserToAddRows = False
-        Me.dg_precios.AllowUserToDeleteRows = False
-        Me.dg_precios.AllowUserToOrderColumns = True
-        Me.dg_precios.AllowUserToResizeRows = False
-        Me.dg_precios.BorderStyle = System.Windows.Forms.BorderStyle.None
-        Me.dg_precios.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.[Single]
-        Me.dg_precios.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.dg_precios.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.DataGridViewTextBoxColumn2})
-        DataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.Window
-        DataGridViewCellStyle2.Font = New System.Drawing.Font("Segoe UI", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.ControlText
-        DataGridViewCellStyle2.SelectionBackColor = System.Drawing.Color.Gray
-        DataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
-        Me.dg_precios.DefaultCellStyle = DataGridViewCellStyle2
-        Me.dg_precios.id_local_grid = 0
-        Me.dg_precios.Location = New System.Drawing.Point(8, 79)
-        Me.dg_precios.MultiSelect = False
-        Me.dg_precios.Name = "dg_precios"
-        DataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle3.Font = New System.Drawing.Font("Segoe UI", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.WindowText
-        DataGridViewCellStyle3.SelectionBackColor = System.Drawing.Color.Gray
-        DataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
-        Me.dg_precios.RowHeadersDefaultCellStyle = DataGridViewCellStyle3
-        Me.dg_precios.RowHeadersVisible = False
-        Me.dg_precios.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.CellSelect
-        Me.dg_precios.Size = New System.Drawing.Size(617, 204)
-        Me.dg_precios.TabIndex = 35
-        '
-        'DataGridViewTextBoxColumn2
-        '
-        Me.DataGridViewTextBoxColumn2.HeaderText = "dg_precios"
-        Me.DataGridViewTextBoxColumn2.Name = "DataGridViewTextBoxColumn2"
-        '
-        'dg_grid
-        '
-        Me.dg_grid.AllowUserToAddRows = False
-        Me.dg_grid.AllowUserToDeleteRows = False
-        Me.dg_grid.AllowUserToOrderColumns = True
-        Me.dg_grid.AllowUserToResizeRows = False
-        Me.dg_grid.BorderStyle = System.Windows.Forms.BorderStyle.None
-        Me.dg_grid.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.[Single]
-        Me.dg_grid.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.dg_grid.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.DataGridViewTextBoxColumn1})
-        DataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle4.BackColor = System.Drawing.SystemColors.Window
-        DataGridViewCellStyle4.Font = New System.Drawing.Font("Segoe UI", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle4.ForeColor = System.Drawing.SystemColors.ControlText
-        DataGridViewCellStyle4.SelectionBackColor = System.Drawing.Color.Gray
-        DataGridViewCellStyle4.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
-        Me.dg_grid.DefaultCellStyle = DataGridViewCellStyle4
-        Me.dg_grid.id_local_grid = 0
-        Me.dg_grid.Location = New System.Drawing.Point(6, 25)
-        Me.dg_grid.MultiSelect = False
-        Me.dg_grid.Name = "dg_grid"
-        DataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle5.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle5.Font = New System.Drawing.Font("Segoe UI", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle5.ForeColor = System.Drawing.SystemColors.WindowText
-        DataGridViewCellStyle5.SelectionBackColor = System.Drawing.Color.Gray
-        DataGridViewCellStyle5.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle5.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
-        Me.dg_grid.RowHeadersDefaultCellStyle = DataGridViewCellStyle5
-        Me.dg_grid.RowHeadersVisible = False
-        Me.dg_grid.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.CellSelect
-        Me.dg_grid.Size = New System.Drawing.Size(613, 294)
-        Me.dg_grid.TabIndex = 16
-        '
-        'DataGridViewTextBoxColumn1
-        '
-        Me.DataGridViewTextBoxColumn1.HeaderText = "dg_grid"
-        Me.DataGridViewTextBoxColumn1.Name = "DataGridViewTextBoxColumn1"
-        '
-        'CmdNombreP
-        '
-        Me.CmdNombreP.FlatAppearance.BorderSize = 0
-        Me.CmdNombreP.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.CmdNombreP.Font = New System.Drawing.Font("Segoe UI", 8.25!)
-        Me.CmdNombreP.ForeColor = System.Drawing.Color.White
-        Me.CmdNombreP.IconChar = FontAwesome.Sharp.IconChar.Archive
-        Me.CmdNombreP.IconColor = System.Drawing.Color.White
-        Me.CmdNombreP.IconFont = FontAwesome.Sharp.IconFont.[Auto]
-        Me.CmdNombreP.IconSize = 18
-        Me.CmdNombreP.ImageAlign = System.Drawing.ContentAlignment.TopLeft
-        Me.CmdNombreP.Location = New System.Drawing.Point(3, 19)
-        Me.CmdNombreP.Margin = New System.Windows.Forms.Padding(3, 0, 3, 0)
-        Me.CmdNombreP.Name = "CmdNombreP"
-        Me.CmdNombreP.Size = New System.Drawing.Size(115, 21)
-        Me.CmdNombreP.TabIndex = 37
-        Me.CmdNombreP.Tag = "200"
-        Me.CmdNombreP.Text = "DESCRIPCION"
-        Me.CmdNombreP.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.CmdNombreP.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
-        Me.CmdNombreP.UseVisualStyleBackColor = True
-        '
         'FrmProductos
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -2377,12 +2377,12 @@ Partial Class FrmProductos
         Me.Panel4.PerformLayout()
         Me.TabPage2.ResumeLayout(False)
         Me.PanelPrecios.ResumeLayout(False)
+        CType(Me.dg_precios, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.dg_grid, System.ComponentModel.ISupportInitialize).EndInit()
         Me.Panel3.ResumeLayout(False)
         Me.Panel3.PerformLayout()
         Me.PanelLotes.ResumeLayout(False)
         Me.PanelLotes.PerformLayout()
-        CType(Me.dg_precios, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.dg_grid, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
 
     End Sub
